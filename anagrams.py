@@ -13,5 +13,9 @@ def check_if_anagram(input_a, input_b):
 
 
 check_if_anagram("iceman", "cinema")
-
 check_if_anagram("dog", "cat")
+
+
+# Output:
+# iceman and cinema are anagrams.
+# dog and cat are not anagrams.
